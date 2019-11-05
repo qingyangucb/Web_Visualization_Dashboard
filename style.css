@@ -1,0 +1,25 @@
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  background: #fff;
+
+}
+
+.navbar {
+  background: #FFFFFF;
+}
+
+#topleftbutton {
+  color: #32CD32;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+body {
+  background: #f1f1f1;
+}
+
+<img src="Fig1.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure." height="350" width="350" align="left">
